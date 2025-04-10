@@ -1,5 +1,3 @@
 /.venv/
-/.idea/aws.xml
-/.idea/misc.xml
-/.idea/vcs.xml
-/data/equity-post-HCT-survival-predictions/
+/.idea/
+/data/
